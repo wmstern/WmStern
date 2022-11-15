@@ -16,7 +16,7 @@
 <br />
 
 #### Languages and syntax:
-<img align="left" alt="C#" width="20px" src="https://api.iconify.design/vscode-icons:file-type-csharp.svg" />
+<img align="left" alt="C#" width="20px" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg" />
 <img align="left" alt="CSS3" width="20px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" />
 <img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/vscode-icons:file-type-js.svg" />
 <img align="left" alt="HTML5" width="20px" src="https://api.iconify.design/vscode-icons:file-type-html.svg" />
