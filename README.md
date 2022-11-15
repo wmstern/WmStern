@@ -16,14 +16,14 @@
 <br />
 
 #### Languages and syntax:
-<img align="left" alt="C#" width="20px" src="https://api.iconify.design/vscode-icons:file-type-csharp2.svg" />
-<img align="left" alt="CSS3" width="20px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" />
-<img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/vscode-icons:file-type-js.svg" />
-<img align="left" alt="HTML5" width="20px" src="https://api.iconify.design/vscode-icons:file-type-html.svg" />
-<img align="left" alt="Python" width="20px" src="https://api.iconify.design/vscode-icons:file-type-python.svg" />
-<img align="left" alt="Rust" width="20px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg" />
-<img align="left" alt="TypeScript" width="20px" src="https://api.iconify.design/vscode-icons:file-type-typescript.svg" />
-<img align="left" alt="Kotlin" width="20px" src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" />
+<img align="left" alt="C#" width="20px" src="https://api.iconify.design/logos:c-sharp.svg" />
+<img align="left" alt="CSS3" width="20px" src="https://api.iconify.design/logos:css-3.svg" />
+<img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/logos:javascript.svg" />
+<img align="left" alt="HTML5" width="20px" src="https://api.iconify.design/logos:html-5.svg" />
+<img align="left" alt="Python" width="20px" src="https://api.iconify.design/logos:python.svg" />
+<img align="left" alt="Rust" width="20px" src="https://api.iconify.design/logos:rust.svg" />
+<img align="left" alt="TypeScript" width="20px" src="https://api.iconify.design/logos:typescript-icon.svg" />
+<img align="left" alt="Kotlin" width="20px" src="https://api.iconify.design/logos:kotlin-icon.svg" />
 
 <br />
 
