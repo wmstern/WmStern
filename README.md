@@ -4,13 +4,6 @@
 [Twitter]: https://www.twitter.com/MrStern_
 [YouTube]: https://www.youtube.com/channel/UCdoIPI0Gb04wmFp11NmpvuQ
 
-<div align=center>
-
-[<img align="left" alt="Github" width="20px" src="https://api.iconify.design/logos:github-icon.svg" />][Github]
-![](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fb0000)
-
-</div>
-
 ---
 
 ### Find me at:
@@ -23,12 +16,13 @@
 <br />
 
 #### Languages and syntax:
-<img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-js.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/vscode-icons:file-type-html.svg" />
-<img align="left" alt="Python" width="26px" src="https://api.iconify.design/vscode-icons:file-type-python.svg" />
-<img align="left" alt="Rust" width="26px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg" />
-<img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript.svg" />
+<img align="left" alt="CSS3" width="20px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" />
+<img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/vscode-icons:file-type-js.svg" />
+<img align="left" alt="HTML5" width="20px" src="https://api.iconify.design/vscode-icons:file-type-html.svg" />
+<img align="left" alt="Python" width="20px" src="https://api.iconify.design/vscode-icons:file-type-python.svg" />
+<img align="left" alt="Rust" width="20px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg" />
+<img align="left" alt="TypeScript" width="20px" src="https://api.iconify.design/vscode-icons:file-type-typescript.svg" />
+<img align="left" alt="Kotlin" width="20px" src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg" />
 
 <br />
 
