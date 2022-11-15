@@ -1,4 +1,4 @@
-[GitHub]: https://GitHub.com/MrSternn
+[GitHub]: https://www.github.com/MrSternn
 
 <div align=center>
 
@@ -8,10 +8,10 @@
 
 #### Find me at:
 
-[Discord]: https://discord.gg/6HdJDXxdSb
+[Discord]: https://www.discord.gg/6HdJDXxdSb
 [Reddit]: https://www.reddit.com/u/PuzzleheadedTell7137
-[Twitter]: https://twitter.com/MrStern_
-[YouTube]: https://youtube.com/channel/UCdoIPI0Gb04wmFp11NmpvuQ
+[Twitter]: https://www.twitter.com/MrStern_
+[YouTube]: https://www.youtube.com/channel/UCdoIPI0Gb04wmFp11NmpvuQ
 
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" />][Discord]
 [<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" />][Reddit]
