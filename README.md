@@ -1,17 +1,17 @@
+[Discord]: https://www.discord.gg/6HdJDXxdSb
 [GitHub]: https://www.github.com/MrSternn
+[Reddit]: https://www.reddit.com/u/PuzzleheadedTell7137
+[Twitter]: https://www.twitter.com/MrStern_
+[YouTube]: https://www.youtube.com/channel/UCdoIPI0Gb04wmFp11NmpvuQ
 
 <div align=center>
 
-![Github](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fc2929)
+[<img align="center" alt="Github" width="20px" src="https://api.iconify.design/logos:github-icon.svg" />][Github]
+![](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fb0000)
 
 </div>
 
 #### Find me at:
-
-[Discord]: https://www.discord.gg/6HdJDXxdSb
-[Reddit]: https://www.reddit.com/u/PuzzleheadedTell7137
-[Twitter]: https://www.twitter.com/MrStern_
-[YouTube]: https://www.youtube.com/channel/UCdoIPI0Gb04wmFp11NmpvuQ
 
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" />][Discord]
 [<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" />][Reddit]
