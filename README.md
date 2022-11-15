@@ -1,6 +1,6 @@
 <br />
 
-#### Languages & Syntax:
+#### Languages:
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/vscode-icons:file-type-html.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-js.svg" />
