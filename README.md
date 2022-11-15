@@ -1,3 +1,9 @@
+<div align=center>
+
+![](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fc2929)
+
+</div>
+
 #### Find me at:
 
 [Discord]: https://discord.gg/6HdJDXxdSb
