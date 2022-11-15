@@ -1,6 +1,8 @@
+[GitHub]: https://GitHub.com/MrSternn
+
 <div align=center>
 
-![](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fc2929)
+![Github](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fc2929)
 
 </div>
 
