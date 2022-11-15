@@ -11,6 +11,8 @@
 
 </div>
 
+---
+
 ### Find me at:
 
 [<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" />][Discord]
@@ -29,13 +31,12 @@
 <img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript.svg" />
 
 <br />
-<br />
-<br />
- 
+
 ---
+
+<br />
+<br />
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSternn&show_icons=true&theme=synthwave" />
 </div>
-
----
