@@ -23,12 +23,7 @@
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSternn&show_icons=true" />
-</div>
-<div align="center">
-  <a href="https://wakatime.com/@Snazzah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrSternn&layout=compact" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSternn&show_icons=true&theme=synthwave" />
 </div>
 
 ---
