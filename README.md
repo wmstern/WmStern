@@ -6,7 +6,7 @@
 
 <div align=center>
 
-[<img align="center" alt="Github" width="20px" src="https://api.iconify.design/logos:github-icon.svg" />][Github]
+[<img align="left" alt="Github" width="20px" src="https://api.iconify.design/logos:github-icon.svg" />][Github]
 ![](https://komarev.com/ghpvc/?username=MrSternn&label=profile+views&color=fb0000)
 
 </div>
