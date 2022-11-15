@@ -13,10 +13,10 @@
 
 #### Find me at:
 
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" />][Discord]
-[<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" />][Reddit]
-[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />][Twitter]
-[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg" />][Youtube]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" /><p>Server</p>][Discord]
+[<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" /><p>Stern</p>][Reddit]
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" /><p>MrStern_</p>][Twitter]
+[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg" /><p>Stern</p>][Youtube]
 
 <br />
 
