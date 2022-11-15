@@ -1,5 +1,3 @@
-</div>
-
 #### Find me at:
 
 [Discord]: https://discord.gg/6HdJDXxdSb
@@ -22,6 +20,15 @@
 <img align="left" alt="Rust" width="26px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript.svg" />
 
-<br />
+---
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSternn&show_icons=true" />
 </div>
+<div align="center">
+  <a href="https://wakatime.com/@Snazzah">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrSternn&layout=compact" />
+  </a>
+</div>
+
+---
