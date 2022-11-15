@@ -7,10 +7,10 @@
 [Twitter]: https://twitter.com/MrStern_
 [YouTube]: https://youtube.com/channel/UCdoIPI0Gb04wmFp11NmpvuQ
 
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord.svg" />][Discord]
-[<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit.svg" />][Reddit]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" />][Discord]
+[<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" />][Reddit]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />][Twitter]
-[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/logos:youtube.svg" />][Youtube]
+[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg" />][Youtube]
 
 <br />
 
