@@ -20,6 +20,8 @@
 <img align="left" alt="Rust" width="26px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript.svg" />
 
+<br />
+
 ---
 
 <div align="center">
