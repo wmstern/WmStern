@@ -15,7 +15,7 @@
 
 <br />
 
-#### Languages and syntax:
+#### Languages:
 <img align="left" alt="C#" width="20px" src="https://api.iconify.design/logos:c-sharp.svg" />
 <img align="left" alt="CSS3" width="20px" src="https://api.iconify.design/logos:css-3.svg" />
 <img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/logos:javascript.svg" />
