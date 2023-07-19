@@ -20,7 +20,7 @@
 <img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/logos:javascript.svg" />
 <img align="left" alt="CSS3" width="20px" src="https://api.iconify.design/logos:css-3.svg" />
 <img align="left" alt="HTML5" width="20px" src="https://api.iconify.design/logos:html-5.svg" />
-<img align="left" alt="Python" width="20px" src="https://api.iconify.design/logos:python.svg" /
+<img align="left" alt="Python" width="20px" src="https://api.iconify.design/logos:python.svg" />
 <img align="left" alt="Rust" width="20px" src="https://api.iconify.design/logos:rust.svg" />
 <img align="left" alt="TypeScript" width="20px" src="https://api.iconify.design/logos:typescript-icon.svg" />
 <img align="left" alt="Kotlin" width="20px" src="https://api.iconify.design/logos:kotlin-icon.svg" />
