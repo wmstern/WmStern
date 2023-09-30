@@ -1,4 +1,3 @@
-[Discord]: https://www.discord.gg/6HdJDXxdSb
 [GitHub]: https://www.github.com/MrSternn
 [Reddit]: https://www.reddit.com/u/PuzzleheadedTell7137
 [Twitter]: https://www.twitter.com/MrStern_
@@ -8,20 +7,13 @@
 
 ### Find me at:
 
-[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg" />][Discord]
-[<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" />][Reddit]
-[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />][Twitter]
-[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg" />][Youtube]
-
+[<img align="left" alt="Reddit" width="32px" src="https://api.iconify.design/logos:reddit-icon.svg" />     Reddit][Reddit]
 <br />
 
-#### Languages:
-<img align="left" alt="C#" width="20px" src="https://api.iconify.design/logos:c-sharp.svg" />
-<img align="left" alt="JavaScript" width="20px" src="https://api.iconify.design/logos:javascript.svg" />
-<img align="left" alt="HTML5" width="20px" src="https://api.iconify.design/logos:html-5.svg" />
-<img align="left" alt="Rust" width="20px" src="https://api.iconify.design/logos:rust.svg" />
-<img align="left" alt="TypeScript" width="20px" src="https://api.iconify.design/logos:typescript-icon.svg" />
-<img align="left" alt="Kotlin" width="20px" src="https://api.iconify.design/logos:kotlin-icon.svg" />
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/logos:twitter.svg" />     Twitter][Twitter]
+<br />
+
+[<img align="left" alt="Youtube" width="32px" src="https://api.iconify.design/logos:youtube-icon.svg" />     Youtube][Youtube]
 
 <br />
 
