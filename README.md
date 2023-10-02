@@ -23,5 +23,5 @@
 <br />
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSternn&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wmstern&show_icons=true&theme=synthwave" />
 </div>
